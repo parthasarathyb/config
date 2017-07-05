@@ -1,0 +1,6 @@
+###GIT IGNORE#
+#################
+.classpath
+.project
+target/*
+settings/*
